@@ -2,7 +2,7 @@
   <h1> 🖐️ Hola, soy Adrian 🥷 </h1>
   
   <!-- Banner de imagen generada -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=DESARROLLADOR%20BACKEND&fontSize=50&fontColor=ffffff&desc=Arquitectura%20e%20Integraci%C3%B3n%20de%20IA&descAlignY=70&descAlign=62" alt="Banner Desarrollador Backend" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=50&fontColor=ffffff&desc=Arquitectura%20e%20Integraci%C3%B3n%20de%20IA&descAlignY=70&descAlign=62" alt="Banner Desarrollador Full Stack" width="100%" />
 
   <br>
 
@@ -16,7 +16,7 @@
 
 ## 🔗 Sobre Mí
 
-- 💻 **Desarrollador Backend** enfocado en la creación de lógicas complejas y arquitecturas estructuradas.
+- 💻 **Desarrollador Full Stack** enfocado en la creación de lógicas complejas y arquitecturas estructuradas end-to-end.
 - 🚀 Apasionado por las migraciones a **Serverless Cloud** y la integración de modelos de **Inteligencia Artificial**.
 - 🧠 Diseñando esquemas de bases de datos y orquestando scripts desde mi terminal.
 - 🎓 Estudiante de 8vo semestre construyendo soluciones del mundo real.
